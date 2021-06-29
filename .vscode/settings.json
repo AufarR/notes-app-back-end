@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ed2c1a93-e5f1-41f9-a34d-327f7942c111/resourceGroups/DicodingBackend1/providers/Microsoft.Web/sites/NotesApp1",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
